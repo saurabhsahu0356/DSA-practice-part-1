@@ -1,2 +1,10 @@
-# DSA-practice-part-1
-My daily DSA practice repository — learning Data Structures &amp; Algorithms through consistent coding, problem solving, and GitHub commits.
+# DSA
+
+This is my DSA practice repo.
+
+I am learning and practicing DSA step by step and uploading my code here.
+
+My goal is to improve my coding and problem-solving skills through regular practice.
+
+**Learning. Practicing. Improving. 
+
